@@ -1,0 +1,17 @@
+C:\Users\scream\Desktop\ServerMinistryofHajj\ServerMinistryofHajj\bin\Debug\ServerMinistryofHajj.exe.config
+C:\Users\scream\Desktop\ServerMinistryofHajj\ServerMinistryofHajj\bin\Debug\ServerMinistryofHajj.exe
+C:\Users\scream\Desktop\ServerMinistryofHajj\ServerMinistryofHajj\bin\Debug\ServerMinistryofHajj.pdb
+C:\Users\scream\Desktop\ServerMinistryofHajj\ServerMinistryofHajj\bin\Debug\ServerMinistryofHajj.xml
+C:\Users\scream\Desktop\ServerMinistryofHajj\ServerMinistryofHajj\obj\Debug\ServerMinistryofHajj.FormAdd.resources
+C:\Users\scream\Desktop\ServerMinistryofHajj\ServerMinistryofHajj\obj\Debug\ServerMinistryofHajj.Formtaehen.resources
+C:\Users\scream\Desktop\ServerMinistryofHajj\ServerMinistryofHajj\obj\Debug\ServerMinistryofHajj.Formtoare.resources
+C:\Users\scream\Desktop\ServerMinistryofHajj\ServerMinistryofHajj\obj\Debug\ServerMinistryofHajj.Server.resources
+C:\Users\scream\Desktop\ServerMinistryofHajj\ServerMinistryofHajj\obj\Debug\ServerMinistryofHajj.Resources.resources
+C:\Users\scream\Desktop\ServerMinistryofHajj\ServerMinistryofHajj\obj\Debug\ServerMinistryofHajj.vbproj.GenerateResource.Cache
+C:\Users\scream\Desktop\ServerMinistryofHajj\ServerMinistryofHajj\obj\Debug\ServerMinistryofHajj.exe
+C:\Users\scream\Desktop\ServerMinistryofHajj\ServerMinistryofHajj\obj\Debug\ServerMinistryofHajj.xml
+C:\Users\scream\Desktop\ServerMinistryofHajj\ServerMinistryofHajj\obj\Debug\ServerMinistryofHajj.pdb
+C:\Users\scream\Desktop\ServerMinistryofHajj\ServerMinistryofHajj\obj\Debug\ServerMinistryofHajj.Formsig.resources
+C:\Users\scream\Desktop\ServerMinistryofHajj\ServerMinistryofHajj\obj\Debug\ServerMinistryofHajj.vbproj.CoreCompileInputs.cache
+C:\Users\scream\Desktop\ServerMinistryofHajj\ServerMinistryofHajj\obj\Debug\ServerMinistryofHajj.vbprojAssemblyReference.cache
+C:\Users\scream\Desktop\ServerMinistryofHajj\ServerMinistryofHajj\obj\Debug\ServerMinistryofHajj.Formgps.resources
